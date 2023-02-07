@@ -1,0 +1,9 @@
+{
+	"name": "smithatrial2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a348c553-3980-4c21-947b-f55cee757d81",
+		"tenantId": "6ba734a5-1f07-4ff5-9024-8a76b063db12"
+	}
+}
